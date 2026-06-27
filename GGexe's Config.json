@@ -1,0 +1,358 @@
+{
+  "replacement_rules": [
+    {
+      "name": "sata andagi kill sound",
+      "replace_ids": [
+        16530229616,
+        16530229541,
+        16530229695
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 8941612531
+    },
+    {
+      "name": "no fist",
+      "replace_ids": [
+        12307734932,
+        12307583853
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "custom body hit sound",
+      "replace_ids": [
+        13110130082
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 7147454322
+    },
+    {
+      "name": "custom head hit sound",
+      "replace_ids": [
+        16537337310,
+        16537449730
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 5043539486
+    },
+    {
+      "name": "lo fi lobby music",
+      "replace_ids": [
+        17697682466,
+        17733314783
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 140056822913929
+    },
+    {
+      "name": "inverted scribble texture",
+      "replace_ids": [
+        7658055825
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/giulianohohoho-ai/my-random-thinks-babaw/4d40caf50b0c3b6295838d632a7b56ba0144f19e/IMG_1399.png"
+    },
+    {
+      "name": "suspence music on sudden death",
+      "replace_ids": [
+        17467242617
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/bluer.ogg"
+    },
+    {
+      "name": "double jump sfx",
+      "replace_ids": [
+        16770456156,
+        16492958314
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 2428506580
+    },
+    {
+      "name": "minecraft font",
+      "replace_ids": [
+        12187323909,
+        12187320363,
+        12187354260,
+        12187342816,
+        12187280273,
+        12187303601,
+        12187262242,
+        12187288714,
+        12187341500,
+        12187271237,
+        12187341020
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/IdreesInc/Monocraft/main/dist/Monocraft-ttf/Monocraft.ttf"
+    },
+    {
+      "name": "remove item background",
+      "replace_ids": [
+        13220167337,
+        13188242420,
+        13220167472,
+        13188153054,
+        13188242287
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "countdown replaced with music",
+      "replace_ids": [
+        17826470563
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/theeyellow.ogg"
+    },
+    {
+      "name": "custom elim icon",
+      "replace_ids": [
+        16802957270
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 77116507932621
+    },
+    {
+      "name": "sky bk",
+      "replace_ids": [
+        2108482005,
+        14147881792,
+        135908632589654,
+        84214501374682,
+        10196550937,
+        12261809766
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 83821006134263
+    },
+    {
+      "name": "sky dn",
+      "replace_ids": [
+        2108545280,
+        10196550667,
+        14147882149,
+        103020541883227,
+        89972436184102,
+        12261813110
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 113389903773009
+    },
+    {
+      "name": "sky ft",
+      "replace_ids": [
+        14147882761,
+        12261809766,
+        135908632589654,
+        84214501374682,
+        10196550367,
+        2108482231
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 116882579953487
+    },
+    {
+      "name": "sky lf",
+      "replace_ids": [
+        14147883091,
+        135908632589654,
+        84214501374682,
+        2108482395,
+        12261809766,
+        10196550128
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 113519398916814
+    },
+    {
+      "name": "sky rt",
+      "replace_ids": [
+        14147882405,
+        135908632589654,
+        84214501374682,
+        2108482542,
+        12261809766,
+        10196549902
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 83022229382808
+    },
+    {
+      "name": "sky up",
+      "replace_ids": [
+        14147881297,
+        72960281658487,
+        92138082970751,
+        2108482676,
+        10196567794,
+        12261813678
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 118990588226511
+    },
+    {
+      "name": "remove lvl icon",
+      "replace_ids": [
+        81461991645938
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "remove streak icon",
+      "replace_ids": [
+        17175092502,
+        17094014569
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "remove gamemode end",
+      "replace_ids": [
+        18239670056
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "remove win match sound",
+      "replace_ids": [
+        16810041280
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "custom startup sound",
+      "replace_ids": [
+        6384899588
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 4763694649
+    },
+    {
+      "name": "HELL NAH sound when u lose match",
+      "replace_ids": [
+        16810321565
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 885589466
+    },
+    {
+      "name": "remove N G letters",
+      "replace_ids": [
+        13854780042,
+        13854780213
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "custom slide sfx",
+      "replace_ids": [
+        16737738420
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 7384144101
+    },
+    {
+      "name": "custom click",
+      "replace_ids": [
+        177266782
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 7147454322
+    },
+    {
+      "name": "clean HUD",
+      "replace_ids": [
+        13188153054,
+        13188242420,
+        13220167472,
+        13220167337
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "custom startup character",
+      "replace_ids": [
+        133917828562858,
+        121503061771505
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/giulianohohoho-ai/my-random-thinks-babaw/e64a6c68510efafea7969eb052c2af53a30951b1/image00012.png"
+    },
+    {
+      "name": "remove spark headshot effect",
+      "replace_ids": [
+        15109829804
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 109303978243933
+    },
+    {
+      "name": "replace logo with my babaw tuff nick",
+      "replace_ids": [
+        13854780213
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/giulianohohoho-ai/my-random-thinks-babaw/8659275f1381513963ece9cf8e36883d247a4db9/generated_text.png"
+    },
+    {
+      "name": "replace demote with bruh",
+      "replace_ids": [
+        91547731028928
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 5044897021
+    },
+    {
+      "name": "replace promote with HAPPY HAPPY HAPPY",
+      "replace_ids": [
+        138975587469438
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 134796605677334
+    },
+    {
+      "name": "custom heal sfx",
+      "replace_ids": [
+        17138490999
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 126813193840235
+    }
+  ]
+}
